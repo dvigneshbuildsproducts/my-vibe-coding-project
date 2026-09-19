@@ -41,11 +41,10 @@ Don't change anything else in the project or touch the underlying logic.
 
 ## Reusable techniques learned
 
-- _____
-- _____
+- Defining the sequence, behaviour and refine helps to structure the build
 
 ## What broke (and the fix)
 
 _Where a single mega-prompt failed and chaining fixed it._
 
-_____
+Prompt chaining hardened the flow 
