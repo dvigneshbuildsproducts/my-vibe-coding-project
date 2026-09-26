@@ -35,5 +35,5 @@ only 15% of the users used the PM dashboard
 ## Final showcase
 
 - **Demo link:** https://stick-around-star.lovable.app
-- **The one-sentence story:** _____
+- **The one-sentence story:** More users using the PM dashboard
 - **Where it landed on the Confidence Line (M2 → now):** the churn will b reduced, high confidence
